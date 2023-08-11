@@ -1,14 +1,17 @@
 # In-Line Wideband RF MEMS Switch Integrated on PCB Using BCB Planarization
 
 
-![Fig 1. Graphical Abstrac](https://github.com/temocbzc/IEEE_Latam_In-Line_Wideband_RF_MEMS_Switch_Integrated_on_PCB_Using_BCB_Planarization/blob/main/Graphical%20Abstrac.png)"Fig 1 Graphical Abstrac"
+![Graphical Abstrac](https://github.com/temocbzc/IEEE_Latam_In-Line_Wideband_RF_MEMS_Switch_Integrated_on_PCB_Using_BCB_Planarization/blob/main/Graphical%20Abstrac.png)
 
 
 Resources and extra documentation for the manuscript "In-Line Wideband RF MEMS Switch Integrated on PCB Using BCB Planarization" published in IEEE Latin America Transactions
 
-#### Instructions to reproduce the device
+## Instructions to reproduce the device
 
-The fabrication process flow for the proposed RF-MEMS swithc is shown in the next picture.
+The fabrication process flow for the proposed RF-MEMS switch is shown in the next picture.
+
+![Fabrication process flow](https://github.com/temocbzc/IEEE_Latam_In-Line_Wideband_RF_MEMS_Switch_Integrated_on_PCB_Using_BCB_Planarization/blob/main/Fabrication%20process%20flow.png)
+__Fig 1 Fabrication process flow__
 
 **Instructions:**
 
@@ -23,6 +26,6 @@ The fabrication process flow for the proposed RF-MEMS swithc is shown in the nex
 9. Pattern and etch to form the switch membrane (Fig 1 (g)).
 10. Release th structure using a supercritical dryer.
 
-NOTE: The etching-copper process is using an etchant based on hydrogen peroxide/hidrochloric acid/water solution. For 4 s remove 1$\mu$m-thick of cooper.
+**NOTE:** The etching-copper process is using an etchant based on hydrogen peroxide/hidrochloric acid/water solution. For 4 s remove 1$\mu$m-thick of cooper.
 
 The data sheets of BCB and photoresist are added in this repository.
