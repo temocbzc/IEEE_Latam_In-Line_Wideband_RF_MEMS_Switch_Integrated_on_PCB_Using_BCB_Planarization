@@ -1,1 +1,3 @@
-# IEEE_Latam_In-Line_Wideband_RF_MEMS_Switch_Integrated_on_PCB_Using_BCB_Planarization
+# In-Line Wideband RF MEMS Switch Integrated on PCB Using BCB Planarization
+
+## Instructions to reproduce the device
