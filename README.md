@@ -28,4 +28,4 @@ __Fig 1 Fabrication process flow__
 
 **NOTE:** The etching-copper process is using an etchant based on hydrogen peroxide/hidrochloric acid/water solution. For 4 s remove 1 $\mu$ m-thick of cooper.
 
-The data sheets of BCB and photoresist are added in this repository.
+The data sheets, BCB and photoresist, and phothomask are added in this repository.
